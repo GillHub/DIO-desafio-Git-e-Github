@@ -1,3 +1,5 @@
 link para downloado do git https://git-scm.com/downloads
 
 o git bash é uma terminal extendido para o uso do git
+
+link para praticar mais https://www.w3schools.com/git/ (adicionar em links uteis)
